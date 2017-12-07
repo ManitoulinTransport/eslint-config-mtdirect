@@ -27,3 +27,7 @@ And finally, add the following scripts under `"scripts"` in your `package.json`:
 ```
 
 *It is recommented to also prepend `npm run lint && ` to your `"test"` script, if you have one.*
+
+## Tips
+
+- Copy [this .editorconfig file](./.editorconfig) to the root of your project, so that file editors and IDEs will comply with mtdirect formatting standards
